@@ -1,22 +1,22 @@
-# Available .VIDEO One-Word Domains (8,561)
+# Available .VIDEO One-Word Domains (11,036)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C561%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C561%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C036%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .video one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .video one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,036 domains** on the canonical page below.
 
-**Public extract:** 8,561 rows · **Live catalog:** 8,561 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,036 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/video`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .VIDEO one-word domain
 
 ### Files
 
-- `video.csv` — public CSV extract (8,561 rows)
-- `video.json` — public JSON extract (8,561 rows)
+- `video.csv` — public CSV extract (1,000 rows)
+- `video.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| eternal.video   | available | $14.99    | $52.99        | 92             | 39     | 7      | name.com                   |
-| material.video  | resell    | $14.99    | $52.99        | 106            | 24     | 8      | Spaceship, Inc.            |
-| ace.video       | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com                   |
-| conscious.video | available | $14.99    | $52.99        | 89             | 38     | 9      | name.com                   |
-| sense.video     | resell    | —         | —             | 102            | 63     | 5      | Squarespace Domains II LLC |
-| one.video       | premium   | $3,125    | $3,125        | 132            | 50     | 3      | name.com                   |
-| potato.video    | available | $14.99    | —             | 76             | 35     | 6      | name.com                   |
-| power.video     | resell    | —         | —             | 98             | 62     | 5      | Sav.com, LLC               |
-| design.video    | premium   | $1,250    | $1,250        | 108            | 49     | 6      | name.com                   |
-| progress.video  | available | $14.99    | $52.99        | 82             | 34     | 8      | name.com                   |
-| sex.video       | resell    | —         | —             | 98             | 59     | 3      | GoDaddy.com, LLC           |
-| travel.video    | premium   | $3,250    | $3,250        | 115            | 48     | 6      | namecheap                  |
-| coral.video     | available | $14.99    | $52.99        | 68             | 34     | 5      | name.com                   |
-| data.video      | resell    | —         | —             | 70             | 56     | 4      | GoDaddy.com, LLC           |
-| all.video       | premium   | $3,125    | $3,125        | 88             | 48     | 3      | name.com                   |
-| concrete.video  | available | $14.99    | $52.99        | 102            | 32     | 8      | name.com                   |
-| wallet.video    | resell    | —         | —             | 74             | 54     | 6      | DNSPod, Inc.               |
-| dragon.video    | premium   | $130      | $260          | 78             | 48     | 6      | namecheap                  |
-| toast.video     | available | $14.99    | —             | 68             | 32     | 5      | name.com                   |
-| link.video      | resell    | —         | —             | 68             | 54     | 4      | Realtime Register B.V.     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| letsgo.video      | available | $14.99    | —             | 57             | 31     | 7      | name.com              |
+| code.video        | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc           |
+| justin.video      | premium   | $69.30    | $138.60       | 58             | 38     | 7      | namecheap             |
+| gods.video        | available | $14.99    | —             | 72             | 27     | 4      | name.com              |
+| tokens.video      | resell    | —         | —             | 51             | 36     | 6      | Spaceship, Inc.       |
+| WiFi.video        | premium   | $46.20    | $92.40        | 83             | 37     | 5      | namecheap             |
+| trades.video      | available | $14.99    | —             | 71             | 26     | 6      | name.com              |
+| inspiration.video | resell    | —         | —             | 88             | 30     | 11     | Spaceship, Inc.       |
+| events.video      | premium   | $140      | $280          | 68             | 37     | 6      | namecheap             |
+| echoes.video      | available | $14.99    | —             | 56             | 24     | 6      | name.com              |
+| dates.video       | resell    | —         | —             | 56             | 15     | 5      | Entorno Digital, S.A. |
+| tickets.video     | premium   | $69.30    | $138.60       | 64             | 34     | 7      | namecheap             |
+| CapeCod.video     | available | $49.48    | —             | 78             | 22     | 8      | namecheap             |
+| drums.video       | resell    | —         | —             | 54             | 11     | 5      | GoDaddy.com, LLC      |
+| slots.video       | premium   | $420      | $840          | 49             | 31     | 5      | namecheap             |
+| unicorns.video    | available | $14.99    | —             | 73             | 21     | 8      | name.com              |
+| MerryXmas.video   | resell    | —         | —             | 70             | 4      | 10     | eNom, LLC             |
+| videos.video      | premium   | $1,750    | $3,500        | 52             | 30     | 6      | namecheap             |
+| Alexis.video      | available | $14.99    | —             | 72             | 21     | 6      | name.com              |
+| quotes.video      | premium   | $42       | $84           | 58             | 29     | 6      | namecheap             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,561-row public sample | 8,561 live domains                               |
+| 1,000-row public sample | 11,036 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
