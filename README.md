@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .video one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,429 domains · **Median ask:** $56.80 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/video`  
 **Best for:** founders, investors, studios
 
@@ -79,11 +79,11 @@ print(df.head())
 | CapeCod.video     | available | $49.48    | —             | 78             | 22     | 8      | namecheap             |
 | drums.video       | resell    | —         | —             | 54             | 11     | 5      | GoDaddy.com, LLC      |
 | sites.video       | premium   | $69.30    | $138.60       | 53             | 26     | 5      | namecheap             |
-| Alexis.video      | available | $14.99    | —             | 72             | 21     | 6      | name.com              |
+| beans.video       | available | $14.99    | —             | 74             | 21     | 5      | name.com              |
 | MerryXmas.video   | resell    | —         | —             | 70             | 4      | 10     | eNom, LLC             |
-| comics.video      | premium   | $140      | $280          | 68             | 24     | 6      | namecheap             |
-| faces.video       | available | $14.99    | —             | 60             | 21     | 5      | name.com              |
 | shops.video       | premium   | $280      | $560          | 64             | 24     | 5      | namecheap             |
+| Alexis.video      | available | $14.99    | —             | 72             | 21     | 6      | name.com              |
+| toys.video        | premium   | $69.30    | $138.60       | 60             | 24     | 4      | namecheap             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
