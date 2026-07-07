@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .video one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,429 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,429 domains · **Median ask:** $56.80 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,429 domains · **Median ask:** $61.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/video`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/video`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VIDEO one-word domain
 
 ### Files
 
-- `video.csv` — public CSV extract (1,000 rows)
-- `video.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `video.csv`, public CSV extract (1,000 rows)
+- `video.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| letsgo.video      | available | $14.99    | —             | 57             | 31     | 7      | name.com              |
-| code.video        | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc           |
-| WiFi.video        | premium   | $46.20    | $92.40        | 83             | 37     | 5      | namecheap             |
-| gods.video        | available | $14.99    | —             | 72             | 27     | 4      | name.com              |
-| tokens.video      | resell    | —         | —             | 51             | 36     | 6      | Spaceship, Inc.       |
-| events.video      | premium   | $140      | $280          | 68             | 37     | 6      | namecheap             |
-| trades.video      | available | $14.99    | —             | 71             | 26     | 6      | name.com              |
-| inspiration.video | resell    | —         | —             | 88             | 30     | 11     | Spaceship, Inc.       |
-| slots.video       | premium   | $420      | $840          | 49             | 31     | 5      | namecheap             |
-| echoes.video      | available | $14.99    | —             | 56             | 24     | 6      | name.com              |
-| dates.video       | resell    | —         | —             | 56             | 15     | 5      | Entorno Digital, S.A. |
-| brands.video      | premium   | $1,750    | $3,500        | 62             | 28     | 6      | namecheap             |
-| CapeCod.video     | available | $49.48    | —             | 78             | 22     | 8      | namecheap             |
-| drums.video       | resell    | —         | —             | 54             | 11     | 5      | GoDaddy.com, LLC      |
-| sites.video       | premium   | $69.30    | $138.60       | 53             | 26     | 5      | namecheap             |
-| beans.video       | available | $14.99    | —             | 74             | 21     | 5      | name.com              |
-| MerryXmas.video   | resell    | —         | —             | 70             | 4      | 10     | eNom, LLC             |
-| shops.video       | premium   | $280      | $560          | 64             | 24     | 5      | namecheap             |
-| Alexis.video      | available | $14.99    | —             | 72             | 21     | 6      | name.com              |
-| toys.video        | premium   | $69.30    | $138.60       | 60             | 24     | 4      | namecheap             |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| acre.video   | available | $14.99    | —             | medium         | low    | 4      | name.com                                            |
+| theory.video | resell    | $49.48    | —             | high           | low    | 6      | Spaceship, Inc.                                     |
+| BJP.video    | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                           |
+| atop.video   | available | $14.99    | —             | medium         | low    | 4      | name.com                                            |
+| fate.video   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
+| bob.video    | premium   | $69.30    | $138.60       | high           | medium | 3      | namecheap                                           |
+| bore.video   | available | $14.99    | $52.99        | high           | low    | 4      | name.com                                            |
+| keen.video   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
+| btw.video    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
+| born.video   | available | $14.99    | —             | high           | low    | 4      | name.com                                            |
+| link.video   | resell    | —         | —             | medium         | medium | 4      | Realtime Register B.V.                              |
+| cot.video    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
+| cane.video   | available | $14.99    | —             | medium         | low    | 4      | name.com                                            |
+| wear.video   | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| dad.video    | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
+| chew.video   | available | $14.99    | —             | medium         | low    | 4      | name.com                                            |
+| wish.video   | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| day.video    | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
+| choc.video   | available | $14.99    | —             | high           | low    | 4      | name.com                                            |
+| aryan.video  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused entirely on one-word .video domains. The names range from broad keywords such as famous.video and sensory.video to more distinctive options like offstage.video and dracula.video. For founders, the main test is whether the word is memorable, easy to say, and tightly matched to a video-first product or brand. For investors, the key question is whether the word has clear commercial use inside the .video extension at the current ask. With a median ask of $56.81, price discipline matters less than choosing words with obvious relevance, clean spelling, and strong category fit.
+This list covers 11,429 available .video domain names, spanning single words and short phrases built around media, sports, lifestyle, and everyday concepts. With a median asking price near $61, the set offers a wide entry point for founders seeking a brandable, ownable name and investors comparing pricing across a large pool of .video options. Names range from concise single words like sports.video to descriptive combinations like mealsonwheels.video, giving buyers room to match tone, length, and cost to their specific use case.
 
-- Prioritize words that fit video use cases naturally
-- Favor clean spelling and instant recall
-- Compare broad terms vs more niche concepts
-- Use ask price to judge conviction, not just novelty
+- 11,429 available .video domain names in this selection
+- Median asking price near $61 across the set
+- Mix of one-word and short phrase .video names
+- Compare price, length, and tone before choosing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
