@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .video one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,188 domains · **Median ask:** $38.55 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/video`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| simple.video  | resell    | —         | —             | high           | medium | 6      | Name.com, Inc.                                      |
-| special.video | premium   | $140      | $280          | high           | low    | 7      | namecheap                                           |
-| acre.video    | available | $14.99    | —             | medium         | low    | 4      | name.com                                            |
-| theory.video  | resell    | $49.48    | —             | high           | low    | 6      | Spaceship, Inc.                                     |
-| BJP.video     | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                           |
-| alky.video    | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
-| fate.video    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
-| bob.video     | premium   | $69.30    | $138.60       | high           | medium | 3      | namecheap                                           |
-| atop.video    | available | $14.99    | —             | medium         | low    | 4      | name.com                                            |
-| keen.video    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
-| btw.video     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
-| auld.video    | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
-| link.video    | resell    | —         | —             | medium         | medium | 4      | Realtime Register B.V.                              |
-| clv.video     | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                           |
-| bald.video    | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
-| loco.video    | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.                                     |
-| cot.video     | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
-| bats.video    | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
-| wear.video    | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| dad.video     | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| acre.video   | available | $14.99    | —             | medium         | low    | 4      | name.com                                            |
+| theory.video | resell    | $49.48    | —             | high           | low    | 6      | Spaceship, Inc.                                     |
+| BJP.video    | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                           |
+| alky.video   | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
+| fate.video   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
+| bob.video    | premium   | $69.30    | $138.60       | high           | medium | 3      | namecheap                                           |
+| atop.video   | available | $14.99    | —             | medium         | low    | 4      | name.com                                            |
+| keen.video   | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
+| btw.video    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
+| auld.video   | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
+| link.video   | resell    | —         | —             | medium         | medium | 4      | Realtime Register B.V.                              |
+| clv.video    | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                           |
+| bald.video   | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
+| loco.video   | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.                                     |
+| cot.video    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
+| bats.video   | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
+| wear.video   | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| dad.video    | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
+| bore.video   | available | $14.99    | $52.99        | high           | low    | 4      | name.com                                            |
+| wish.video   | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
