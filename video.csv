@@ -1,5 +1,4 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-987bb034-652d-437b-9cae-d9df9f99fb76,drift.video,resell,,,high,low,5,"Spaceship, Inc.",06/09/2025 20:04,06/09/2026 20:04,
 9832f744-4534-4826-a1f2-4d95602cba05,justabout.video,available,14.99,52.99,medium,low,10,name.com,,,
 c9a54550-95cb-4d1a-b77f-831d0cc535b6,dignitary.video,available,14.99,,high,low,9,name.com,,,
 0480d856-1d6c-4b14-9f7e-747c27a233c6,asinine.video,available,4.98,49.48,low,low,7,namecheap,,,07/08/2026 02:35
@@ -435,7 +434,7 @@ fb7b7746-4e89-4731-a6d6-b342a21f5656,theones.video,available,14.99,,low,low,8,na
 a7c3e5cf-aca6-419b-8aad-ecd5fc09170b,middleage.video,available,14.99,,medium,low,10,name.com,,,
 8a473e53-6491-4980-a415-d60a606cb30d,shaft.video,available,14.99,,high,low,5,name.com,,,
 63510551-25d4-41a3-a3c5-b7d5d00ad6c5,getofftheground.video,available,14.99,,high,low,18,name.com,,,
-321009d4-146b-4b2e-9d89-0960c3778b82,pickuptruck.video,available,14.99,,medium,low,13,name.com,,,
+321009d4-146b-4b2e-9d89-0960c3778b82,pickuptruck.video,available,14.99,36.49,low,low,13,namesilo,,,17/09/2026 14:44
 3a92ad6a-9dd6-47c5-bba2-d1264b7fab7d,gothere.video,available,14.99,,medium,low,8,name.com,,,
 13588d43-1898-4a97-9915-33903f60af9a,nyse.video,available,14.99,,medium,low,4,name.com,,,
 898a9081-3619-4480-8cc8-a8ce0be4d853,sunhat.video,available,14.99,,high,low,6,name.com,,,
@@ -999,3 +998,4 @@ d8f315a4-23c1-4584-8241-d08ef7ae531a,stairs.video,available,14.99,,medium,low,6,
 b58f8d4d-5840-4a44-8819-a2f7df02240e,lan.video,premium,46.2,92.4,medium,low,3,namecheap,,,
 53759579-6161-4781-8e24-9d25d0b9b40a,lookinto.video,available,14.99,,high,low,9,name.com,,,
 72c62e4b-e4b5-40a4-b390-e30b0a85e805,club.video,premium,1750,3500,high,low,4,namecheap,,,
+47b475b7-c436-4f14-ab7b-9e38c72b8f85,much.video,available,14.99,,high,low,4,name.com,,,
