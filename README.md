@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .video one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,347 domains · **Median ask:** $29.65 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/video`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,7 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | premium.video | premium   | $3,450    | $3,450        | high           | low    | 7      | namesilo                                            |
+| special.video | premium   | $130      | $260          | high           | low    | 7      | namecheap                                           |
 | acre.video    | available | $14.99    | —             | medium         | low    | 4      | name.com                                            |
 | theory.video  | resell    | $49.48    | —             | high           | low    | 6      | Spaceship, Inc.                                     |
 | bjp.video     | premium   | $69.30    | $138.60       | medium         | low    | 3      | namecheap                                           |
@@ -83,7 +84,6 @@ print(df.head())
 | bats.video    | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
 | wear.video    | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | dad.video     | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
-| bore.video    | available | $14.99    | $52.99        | high           | low    | 4      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
