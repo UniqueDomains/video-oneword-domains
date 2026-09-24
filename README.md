@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .video one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,965 domains · **Median ask:** $29.53 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/video`
 **Best for:** founders, investors, studios
 
@@ -75,13 +75,13 @@ print(df.head())
 | btw.video    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
 | auld.video   | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
 | loco.video   | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.                                     |
-| clv.video    | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                           |
+| bum.video    | premium   | $64.35    | $128.70       | low            | low    | 3      | namecheap                                           |
 | bald.video   | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
 | wear.video   | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| cot.video    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
+| clv.video    | premium   | $42.90    | $85.80        | low            | low    | 3      | namecheap                                           |
 | bats.video   | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                           |
 | wing.video   | resell    | —         | —             | low            | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| dad.video    | premium   | $140      | $280          | high           | low    | 3      | namecheap                                           |
+| cot.video    | premium   | $69.30    | $138.60       | high           | low    | 3      | namecheap                                           |
 | bore.video   | available | $14.99    | $52.99        | high           | low    | 4      | name.com                                            |
 | wish.video   | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
