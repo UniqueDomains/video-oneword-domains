@@ -17,6 +17,7 @@ d135faa4-df2b-494c-9c70-d8047e50ed6c,longitude.video,available,14.99,,high,low,9
 938bb701-1280-4666-801c-a22b97d60769,endemic.video,available,4.98,49.48,high,low,7,namecheap,,,07/08/2026 19:26
 1bfb0434-34d1-4f92-9e28-d39455437620,brown.video,premium,71.4,71.4,high,low,5,namesilo,,,23/09/2026 10:03
 27bf862b-58a2-4485-a834-8d5e31950064,thence.video,available,4.98,49.48,medium,low,6,namecheap,,,15/09/2026 00:13
+959d1be0-553d-4b4a-bb27-bd4014d69ef1,lynn.video,premium,71.4,71.4,high,low,4,namesilo,,,27/09/2026 07:20
 8d227bfe-ede8-4f3d-b16a-ca39e6757370,feasible.video,available,4.98,49.48,high,low,8,namecheap,,,17/08/2026 16:48
 c932cde2-95bd-4bd7-beb2-cfd89b38e250,infrequent.video,available,4.98,49.48,medium,low,10,namecheap,,,22/08/2026 04:50
 38c2952b-0def-4a7c-bf4a-5fc7fda8c4e3,spat.video,available,14.99,36.49,high,low,4,namesilo,,,23/09/2026 13:13
@@ -126,7 +127,6 @@ eb5c44b8-9422-4f0b-9225-c0b10bb912f5,tended.video,available,14.99,36.49,medium,l
 a2560c69-b831-43fa-9bec-ba383c1c246f,xanthous.video,available,4.98,49.48,medium,low,8,namecheap,,,13/09/2026 14:00
 0810579f-1b56-45e7-94c2-e89f064a1f58,ahuehuete.video,available,14.99,36.49,medium,low,9,namesilo,,,17/09/2026 20:34
 27be7902-d9b4-46c8-bd89-6e73068ec327,diverting.video,available,4.98,49.48,high,low,9,namecheap,,,
-5b6c495e-2467-40bd-9da5-7ae2a4401e75,playstation.video,available,,,high,high,11,,,,
 fa800d67-44a6-4d9b-8bd5-58c074152f1d,hiatus.video,available,14.99,36.49,high,low,6,namesilo,,,16/09/2026 14:09
 9d55c012-54bb-45b4-aac5-2d6433eef74e,nostril.video,available,14.99,36.49,high,low,7,namesilo,,,19/09/2026 12:54
 275c9905-3cb7-4d57-b12e-140fea7fdb7c,xiv.video,premium,118.8,118.8,high,low,3,namesilo,,,21/09/2026 11:42
@@ -239,6 +239,7 @@ cff607e7-501a-4fc1-a134-fa9db116a009,willful.video,available,4.98,49.48,medium,l
 424721e8-c1d0-4d18-85ad-1050a85b5417,reflections.video,available,4.98,49.48,high,low,11,namecheap,,,18/09/2026 07:20
 283bbf62-ae8c-4ab9-81d1-d790a7d24a3c,fights.video,premium,250,250,medium,low,6,name.com,,,20/09/2026 00:14
 926e1c45-4756-4fc2-82f6-f19546e406ac,eerie.video,available,4.98,49.48,high,low,5,namecheap,,,15/08/2026 12:43
+96d89962-38ce-405a-8f1d-c4e3ac5bd4c9,mcleod.video,available,4.98,49.48,high,low,6,namecheap,,,27/09/2026 06:53
 255c2b45-4f0b-40b1-9eed-32918c3a1ad3,reed.video,available,14.99,36.49,high,low,4,namesilo,,,22/09/2026 21:42
 551cb129-9dc9-4e75-888a-0384d37ddf74,exacting.video,available,4.98,49.48,medium,low,8,namecheap,,,17/08/2026 15:32
 4731ecbd-49e7-4344-8671-219955824cd8,seventh.video,available,4.98,49.48,high,low,7,namecheap,,,
@@ -431,7 +432,8 @@ c96b8987-ccf3-443d-8097-ff2bc88c4fec,tumescent.video,available,4.98,49.48,medium
 2902483d-cc7e-4e65-81f2-27981ef04a14,aconcagua.video,available,14.99,36.49,medium,low,9,namesilo,,,17/09/2026 02:04
 c2dc96e5-c153-464f-89b0-d9119000b05f,prisms.video,available,14.99,36.49,medium,low,6,namesilo,,,21/09/2026 00:27
 83abd90c-0c23-4ea6-a62c-b958937da326,murky.video,available,4.98,49.48,medium,low,5,namecheap,,,25/08/2026 01:08
-e4c92436-69e2-4bbf-b458-d9987feb4056,respectful.video,available,14.99,,high,low,10,name.com,,,
+12fbeae2-5b13-47b1-a3c0-899df1a51748,curtiss.video,available,14.99,36.49,high,low,7,namesilo,,,27/09/2026 12:50
+e4c92436-69e2-4bbf-b458-d9987feb4056,respectful.video,available,14.99,36.49,high,low,10,namesilo,,,27/09/2026 12:44
 2c0f76b3-4194-432e-b63e-30e88a9f2789,askance.video,available,4.98,49.48,medium,low,7,namecheap,,,07/08/2026 02:56
 165029ce-3e5f-41b3-b0e4-8db0adca738c,coach.video,resell,,,high,low,5,Squarespace Domains II LLC,04/03/2021 09:30,04/03/2027 09:30,26/09/2026 05:04
 366d92f6-1186-4093-8252-9bbd04b274f2,empowering.video,available,14.99,,high,low,10,name.com,,,
@@ -449,6 +451,7 @@ a5020b16-a3b8-459a-a906-a8ef1f9675cf,occurring.video,available,14.99,,high,low,9
 1601c777-608d-4771-b692-d401945c915b,scruples.video,available,4.98,49.48,high,low,8,namecheap,,,24/09/2026 17:26
 dd12b425-cb7d-49fe-a3a2-92cee05c6363,grump.video,available,4.98,49.48,medium,low,5,namecheap,,,13/08/2026 04:58
 6c01111f-b39e-4a91-b7eb-2df886ec7456,holiday.video,premium,1750,3500,high,low,7,namecheap,,,
+f3fdf4b0-d69c-4534-a073-1e734a4e4639,philosophy.video,premium,51.43,102.67,high,low,10,spaceship,,,27/09/2026 13:03
 b23c98af-d02f-413a-aca6-b5b0f33b2503,impala.video,available,14.99,36.49,medium,low,6,namesilo,,,17/09/2026 12:44
 bcf34080-7eb1-4954-8466-fa7b078f06c7,eloquently.video,available,4.98,49.48,medium,low,10,namecheap,,,13/09/2026 20:54
 9a048324-9f7c-4abd-a33e-fdaea9edb600,steamed.video,available,4.98,49.48,high,low,7,namecheap,,,
@@ -525,6 +528,7 @@ d5c448ff-c895-4ce4-88df-c5e2568ed4bd,lentils.video,available,14.99,36.49,medium,
 6173d395-fe18-445d-9d65-3b8974dca610,audiometer.video,available,14.99,36.49,medium,low,10,namesilo,,,21/09/2026 02:58
 28c3c0d1-886d-4a70-865e-3abe89c687ec,musts.video,available,14.99,36.49,medium,low,5,namesilo,,,19/09/2026 21:45
 8b86780c-42ec-4ec2-8509-64d9480a0d79,selfworth.video,available,14.99,,high,low,10,name.com,,,
+90159625-9f8a-4969-95fe-87858f4c0b0a,abby.video,available,4.98,49.48,high,low,4,namecheap,,,27/09/2026 07:09
 6c7f9638-21ef-45fc-b96d-b2d360d23ac4,strut.video,available,4.98,49.48,high,low,5,namecheap,,,11/09/2026 05:11
 6bf73af1-4acd-4010-bd80-09c1fce302b3,montreal.video,premium,140,280,high,low,8,namecheap,,,
 3b45efe7-392c-4226-95f6-1ce03c63c2ab,arrange.video,available,14.99,36.49,high,low,7,namesilo,,,25/09/2026 22:15
@@ -546,6 +550,7 @@ adeb7fa5-3e4a-4b44-a8b5-0395752dc89c,shouter.video,available,4.98,49.48,medium,l
 b7faaacd-2fa7-4b8a-95f0-3d9d6b67f96b,technique.video,available,14.99,,high,low,9,name.com,,,
 0c02e922-98a3-4489-ae47-940df7edc906,straw.video,available,4.98,49.48,high,low,5,namecheap,,,10/09/2026 22:03
 afafc06c-3c60-4fe4-8cc7-3abf314458d0,gleaming.video,available,4.98,49.48,high,low,8,namecheap,,,
+e97f26ab-18d2-4baf-8374-e3d127e9d380,toni.video,available,14.99,36.49,high,low,4,namesilo,,,27/09/2026 07:46
 b2bdb88f-c844-4519-a188-90abd50c15a4,slowness.video,available,14.99,,high,low,8,name.com,,,
 7558df27-eec7-4e6c-ba62-7673b8ea2fa8,syncretic.video,available,4.98,49.48,medium,low,9,namecheap,,,11/09/2026 06:21
 aff7d25e-fba4-4ffd-a789-2f52b70b56d9,wolfish.video,available,4.98,49.48,medium,low,7,namecheap,,,15/08/2026 07:01
@@ -586,7 +591,7 @@ ff9ea887-9b58-4bcb-90f6-9da4bf9e89f1,foiled.video,available,4.98,49.48,medium,lo
 4b829cf1-df2a-46e0-b776-a049fe9ce77a,meg.video,premium,42.9,85.8,high,low,3,namecheap,,,24/08/2026 23:20
 c0d1bef9-9e6c-4100-a8eb-757371f51f53,strung.video,available,4.98,49.48,medium,low,6,namecheap,,,10/09/2026 22:54
 1ff623e6-a1ad-46f5-95c2-68a186bac992,dwarf.video,available,4.98,49.48,medium,low,5,namecheap,,,24/08/2026 22:31
-20e101b5-e8ef-4d7d-9c44-c90fe7d8d97f,relation.video,available,14.99,,high,low,8,name.com,,,
+20e101b5-e8ef-4d7d-9c44-c90fe7d8d97f,relation.video,available,14.99,36.49,high,low,8,namesilo,,,27/09/2026 11:47
 91962c8d-6f91-420c-9399-815a1f9e5be7,sending.video,available,14.99,36.49,high,low,7,namesilo,,,25/09/2026 10:37
 49e3a8cc-4850-4413-885d-790fb3f1df21,unread.video,available,4.98,49.48,high,low,6,namecheap,,,12/09/2026 17:51
 eb47a577-d336-4ea7-9f04-123e4b3639bb,straight.video,premium,64.35,128.7,high,low,8,namecheap,,,14/08/2026 08:46
@@ -721,7 +726,7 @@ ecdd88f1-db6e-4a34-b75f-ce5b7813aad6,killingly.video,available,4.98,49.48,low,lo
 1281b3ba-204e-4fab-bb7c-3cf479cdd9ae,witless.video,available,4.98,49.48,medium,low,7,namecheap,,,03/09/2026 17:49
 de36ea8a-3ce0-47ba-a34d-75521e6a1b18,monkish.video,available,4.98,49.48,medium,low,7,namecheap,,,25/08/2026 04:53
 30264bf5-0e3d-4530-844b-a2abb5ae7763,cappuccino.video,available,14.99,,high,low,10,name.com,,,
-598085ab-bf7f-4bde-9501-bf524430e787,private.video,premium,700,1400,high,low,7,namecheap,,,
+598085ab-bf7f-4bde-9501-bf524430e787,private.video,premium,1107,1107,high,medium,7,namesilo,,,27/09/2026 06:15
 9e92839d-ff74-4dbb-ae50-fbd39d1b5fca,selective.video,available,4.98,49.48,high,low,9,namecheap,,,10/09/2026 01:58
 8b582601-99d0-4efe-ac2b-8a3531caecce,adored.video,available,4.98,49.48,high,low,6,namecheap,,,21/09/2026 19:35
 4a74c8b8-6de3-462a-a067-a4ebc7473186,fellowing.video,available,4.98,49.48,low,low,9,namecheap,,,20/09/2026 20:26
@@ -733,12 +738,14 @@ de9b8083-185f-419e-af83-b92f55d33581,archly.video,available,4.98,49.48,medium,lo
 1ecff72b-d98e-42aa-806c-5ea302032861,shelter.video,available,14.99,,high,low,7,name.com,,,
 43690a42-4c81-4da4-bfb1-845fd49991ce,swishing.video,available,14.99,36.49,high,low,8,namesilo,,,18/09/2026 03:16
 199c020c-2cd1-4a70-a396-23b52bf73535,toned.video,available,4.98,49.48,high,low,5,namecheap,,,11/09/2026 17:02
+66a06442-522a-4589-82ec-2c578ae2959f,politics.video,premium,3450,3450,high,low,8,namesilo,,,27/09/2026 05:03
 ccb80e9a-b6e3-4afb-b1a0-778940deabad,xeric.video,available,4.98,49.48,medium,low,5,namecheap,,,13/09/2026 14:07
 4e28ce25-92a1-4677-8aef-1eab67748b22,blitt.video,available,14.99,36.49,medium,low,5,namesilo,,,21/09/2026 14:13
 dac76dc7-12f2-4f2d-91e5-0aac075e7ed2,peer.video,premium,242,242,high,low,4,namesilo,,,24/09/2026 14:38
 eeca203d-8033-4d17-b2de-0cded9b63309,orleans.video,available,14.99,,high,low,7,name.com,,,
 4c4cf470-d5b8-41c2-8095-238479d0f21d,aside.video,available,14.99,,high,low,5,name.com,,,
 3a4d9bec-d529-4c16-bb62-a53c4e28f8c8,nonexempt.video,available,4.98,49.48,medium,low,9,namecheap,,,03/09/2026 19:09
+6ec7a582-31d2-4c0e-b06e-448e01dbacdb,camille.video,available,4.98,49.48,high,low,7,namecheap,,,27/09/2026 07:42
 7c737618-cdfa-49d0-b811-98cbaa67016f,aleatory.video,available,4.98,49.48,medium,low,8,namecheap,,,
 ab57aea2-7d99-493c-8e4f-83171d78eaa5,devotedly.video,available,4.98,49.48,medium,low,9,namecheap,,,14/09/2026 12:28
 dad5256b-4ea1-40a0-b358-91cf728f3734,henbane.video,available,14.99,36.49,medium,low,7,namesilo,,,24/09/2026 00:54
@@ -764,6 +771,7 @@ b79fa697-fc7e-44a2-bf53-e09583d5d5c0,sleazy.video,premium,64.35,128.7,medium,low
 37ddf8ac-6ef6-44c2-8ffd-0d92aaedfe64,biform.video,available,4.98,49.48,medium,low,6,namecheap,,,09/08/2026 20:07
 1f0f0087-d6ec-4d6e-9944-3606ddd08045,faustian.video,available,4.98,49.48,medium,low,8,namecheap,,,18/08/2026 00:10
 77ef97be-a6f0-430a-bc85-888c0feb1970,quizzes.video,available,14.99,36.49,medium,low,7,namesilo,,,18/09/2026 17:07
+6f5f9ebd-a526-4408-90eb-deb32b420660,don.video,premium,78.54,78.54,high,low,3,namesilo,,,27/09/2026 08:52
 53838da3-4d91-47e0-8152-6c40000b03ae,cookie.video,premium,140,280,high,low,6,namecheap,,,
 01900dfc-b8e1-4d17-b7b0-49790397e683,lilac.video,available,4.98,49.48,high,low,5,namecheap,,,22/08/2026 21:04
 cd4cce9e-574f-4c7d-8198-655277252cdd,eastbound.video,available,4.98,49.48,high,low,9,namecheap,,,14/08/2026 22:50
@@ -798,6 +806,7 @@ b9f8faf1-95c7-4915-9d7e-52d00a9d1fd3,auriferous.video,available,14.99,36.49,medi
 5a8e92dd-e604-448b-8f94-a05e76ad51a0,heyday.video,available,4.98,49.48,high,low,6,namecheap,,,18/08/2026 09:24
 4425673d-48b9-43b3-9685-28556855a9d3,peeled.video,available,4.98,49.48,medium,low,6,namecheap,,,08/08/2026 18:24
 6afc104a-9288-4557-9ead-8025c468ecce,miscible.video,available,4.98,49.48,medium,low,8,namecheap,,,25/08/2026 01:23
+c8435dd3-1f6c-4048-9122-98a0c855a75e,rudy.video,available,14.99,36.49,high,low,4,namesilo,,,27/09/2026 07:02
 dcf482f1-98bd-4d8a-94d0-d62f1736e9e5,equivocal.video,available,4.98,49.48,high,low,9,namecheap,,,
 46df682e-cc59-4a76-80bb-90a8a37468c4,antabuse.video,available,14.99,36.49,medium,low,8,namesilo,,,19/09/2026 12:24
 d99f536d-e355-4c49-a024-9e1b5694c3d2,anemic.video,available,4.98,49.48,medium,low,6,namecheap,,,
@@ -820,6 +829,7 @@ cabd83b6-2cde-4b07-a3b7-a753c8e40f65,aground.video,available,4.98,49.48,medium,l
 5e138e17-9ebe-4fe7-afc0-c8ae2ac0d3ec,stinging.video,available,14.99,52.99,high,low,8,name.com,,,13/08/2026 13:17
 3326212d-1631-4ff8-9999-0c21ffdc6750,relish.video,available,14.99,,high,low,6,name.com,,,
 be0e28b7-7d6d-46ac-9410-4af7a22ed9fc,headstrong.video,available,4.98,49.48,medium,low,10,namecheap,,,18/08/2026 16:35
+5939499f-210d-443f-833d-b8e804438cdb,covers.video,available,14.99,36.49,high,low,6,namesilo,,,27/09/2026 09:49
 e497d534-8cb2-4255-87e3-f6d6fda74b4e,together.video,premium,140,280,high,medium,8,namecheap,,,
 3e74bdeb-b98e-4c86-8be4-7f46b26ee5d5,vagal.video,available,4.98,49.48,medium,low,5,namecheap,,,08/09/2026 22:07
 884b47b4-c66a-4114-912a-fdc02083ba3b,roan.video,available,4.98,49.48,high,low,4,namecheap,,,09/09/2026 18:08
@@ -877,7 +887,7 @@ a724ecbf-0680-4ff8-9cca-99f1260ee6f5,cantaloup.video,available,14.99,36.49,high,
 46c8b029-cf88-4147-8564-967aa74b6636,hackneyed.video,available,4.98,49.48,medium,low,9,namecheap,,,08/08/2026 10:56
 02f517bd-cc5e-4765-a9f1-9d63c417eeea,longways.video,available,4.98,49.48,medium,low,8,namecheap,,,22/08/2026 23:44
 a31de9eb-d8c6-4902-b8b0-f41ede1db7f8,argal.video,available,14.99,36.49,medium,low,5,namesilo,,,20/09/2026 04:10
-f002098e-f00a-4b70-860e-44e07d6ca168,dad.video,premium,140,280,high,low,3,namecheap,,,
+f002098e-f00a-4b70-860e-44e07d6ca168,dad.video,premium,130,260,high,low,3,namecheap,,,27/09/2026 05:02
 f2f29bad-b62f-49ca-892f-83e326ef088c,glenn.video,available,14.99,36.49,high,low,5,namesilo,,,25/09/2026 06:35
 5ed2f274-7353-4050-9222-bdd8af604eb7,emeritus.video,available,4.98,49.48,high,low,8,namecheap,,,16/08/2026 15:05
 1a9f3618-6e7f-41fd-b5bf-5393f5a839c7,nuprin.video,available,4.98,49.48,medium,low,6,namecheap,,,17/09/2026 11:20
@@ -948,6 +958,7 @@ f36b458f-446a-4ae9-a9c8-dd2188fb0449,veterans.video,available,14.99,36.49,high,l
 97972a4b-2ff8-4b55-a2e9-24cc099b2764,inflatable.video,available,4.98,49.48,high,low,10,namecheap,,,22/08/2026 04:29
 54e8e97f-306b-42a1-a5f4-3cd2c4244045,sure.video,available,4.98,49.48,high,low,4,namecheap,,,24/09/2026 21:05
 e9519e3d-45ab-4044-a9a2-d8917d744adb,observable.video,available,4.98,49.48,high,low,10,namecheap,,,03/09/2026 23:59
+911313a9-4be6-4307-bd3b-a039945c1275,grades.video,available,14.99,36.49,high,low,6,namesilo,,,27/09/2026 11:23
 65430c72-a306-47e3-8911-fef030e78548,biogenetic.video,available,4.98,49.48,high,low,10,namecheap,,,10/08/2026 01:12
 ce4d81b3-05cb-4d35-835f-3d0e28b8b9f1,morrison.video,available,4.98,49.48,high,low,8,namecheap,,,25/09/2026 04:14
 0ee6dfc2-846b-4fa9-aeec-fe4a56fa7ffa,prepared.video,available,14.99,36.49,high,low,8,namesilo,,,24/09/2026 11:20
@@ -988,14 +999,3 @@ c7b58d75-4d55-432b-9815-8c1c14ffa51d,elect.video,available,4.98,49.48,high,low,5
 05af4c1f-aab3-4856-8033-2fa9b0cbd29f,floater.video,available,4.98,49.48,medium,low,7,namecheap,,,13/09/2026 00:52
 c3369503-340b-46e1-8be6-070fb657c06f,squat.video,available,4.98,49.48,high,low,5,namecheap,,,25/09/2026 15:16
 3ade9355-3b0e-4896-a33d-aae0b52e6424,facilities.video,premium,71.4,71.4,high,low,10,namesilo,,,26/09/2026 03:08
-74a997ce-ef3e-4da9-961c-c1d61e37f9ce,aldehyde.video,available,14.99,36.49,high,low,8,namesilo,,,18/09/2026 04:24
-88d4d129-83b4-497c-a3a6-d71026a0f4f4,building.video,available,14.99,,high,low,8,name.com,,,
-b057c52b-6ebe-4498-9aa5-181397ecf683,panicked.video,available,4.98,49.48,medium,low,8,namecheap,,,05/09/2026 00:57
-1dca62ab-5acf-4faa-95b3-e20fa235e1bd,arca.video,available,14.99,36.49,high,low,4,namesilo,,,20/09/2026 01:31
-40529bde-b2a7-4d6e-a9eb-2414fa4e15a5,cold.video,resell,,,high,low,4,"NameCheap, Inc.",28/11/2025 20:57,28/11/2026 20:57,26/09/2026 05:06
-d2d163c2-9a17-4417-abf3-4476675b5df3,tracking.video,available,14.99,,high,low,8,name.com,,,
-e7971288-97e6-47ee-b059-9fe0308d9e7b,saudi.video,premium,130,260,high,low,5,namecheap,,,09/09/2026 21:58
-8404fab0-03dc-48d4-99d6-7a2238d0e5e8,haitian.video,available,4.98,49.48,high,low,7,namecheap,,,20/08/2026 22:17
-be0b8640-5818-45e4-aed6-b06d241c1b46,basuto.video,available,4.98,49.48,medium,low,6,namecheap,,,22/09/2026 13:01
-8364d6a6-91d3-43f9-a7fe-beb6438ba0df,wolfsbane.video,available,14.99,36.49,medium,low,9,namesilo,,,17/09/2026 02:06
-341efd18-7ac9-44dc-b495-5b56a62d7238,accuser.video,available,14.99,,medium,low,7,name.com,,,
