@@ -1,10 +1,10 @@
-# Available .VIDEO One-Word Domains (28,381)
+# Available .VIDEO One-Word Domains (29,883)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C381%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C883%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .video one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,381 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,883 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,381 domains · **Median ask:** $42.21 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 29,883 domains · **Median ask:** $41.33 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/video`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| abby.video  | available | $4.98     | $49.48        | high           | low    | 4      | namecheap                                    |
-| glow.video  | resell    | —         | —             | high           | medium | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| aac.video   | premium   | $34.36    | $68.51        | high           | low    | 3      | spaceship                                    |
-| adze.video  | available | $14.99    | $36.49        | medium         | low    | 4      | namesilo                                     |
-| lava.video  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                              |
-| alp.video   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                     |
-| akka.video  | available | $14.99    | $36.49        | high           | low    | 4      | namesilo                                     |
-| void.video  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                              |
-| ape.video   | premium   | $64.35    | $128.70       | high           | low    | 3      | namecheap                                    |
-| alee.video  | available | $4.98     | $49.48        | low            | low    | 4      | namecheap                                    |
-| bingo.video | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                             |
-| che.video   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| asio.video  | available | $14.99    | $36.49        | medium         | low    | 4      | namesilo                                     |
-| coach.video | resell    | —         | —             | high           | medium | 5      | Squarespace Domains II LLC                   |
-| csu.video   | premium   | $36.32    | $72.57        | medium         | low    | 3      | porkbun                                      |
-| asur.video  | available | $14.99    | $36.49        | medium         | low    | 4      | namesilo                                     |
-| coins.video | resell    | —         | —             | high           | medium | 5      | DNSPod, Inc.                                 |
-| dsc.video   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| aves.video  | available | $14.99    | $36.49        | medium         | low    | 4      | namesilo                                     |
-| guild.video | resell    | —         | —             | high           | low    | 5      | —                                            |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| receipt.video    | available | $28.20    | $28.20        | high           | low    | 7      | cloudflare                 |
+| production.video | premium   | $1,625    | $3,250        | high           | low    | 10     | namecheap                  |
+| most.video       | premium   | $242      | $242          | high           | low    | 4      | namesilo                   |
+| solid.video      | premium   | $69.30    | $138.60       | high           | medium | 5      | namecheap                  |
+| columbia.video   | premium   | $242      | $242          | high           | medium | 8      | namesilo                   |
+| medium.video     | available | $4.34     | $29.18        | high           | low    | 6      | spaceship                  |
+| express.video    | premium   | $71.40    | $71.40        | high           | low    | 7      | namesilo                   |
+| effective.video  | premium   | $78.54    | $78.54        | high           | low    | 9      | namesilo                   |
+| coach.video      | resell    | —         | —             | high           | medium | 5      | Squarespace Domains II LLC |
+| stuff.video      | premium   | $130      | $260          | high           | low    | 5      | namecheap                  |
+| russian.video    | premium   | $130      | $260          | high           | low    | 7      | namecheap                  |
+| maximum.video    | premium   | $64.35    | $128.70       | high           | low    | 7      | namecheap                  |
+| usa.video        | premium   | $280      | $560          | high           | medium | 3      | namecheap                  |
+| europe.video     | premium   | $51.43    | $102.67       | high           | medium | 6      | spaceship                  |
+| festival.video   | premium   | $242      | $242          | high           | low    | 8      | namesilo                   |
+| holiday.video    | premium   | $1,293.95 | $2,587.70     | high           | low    | 7      | spaceship                  |
+| chance.video     | available | $4.98     | $49.48        | high           | low    | 6      | namecheap                  |
+| little.video     | premium   | $130      | $260          | high           | low    | 6      | namecheap                  |
+| cooking.video    | premium   | $3,450    | $3,450        | high           | low    | 7      | namesilo                   |
+| absorbing.video  | available | $14.99    | $36.49        | high           | low    | 9      | namesilo                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,381 live domains                        |
+| 1,000-row public sample | 29,883 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIDEO One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
